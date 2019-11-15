@@ -1,2 +1,2 @@
-# FFlow
+# FiFlow
 Painless workflow engine.
